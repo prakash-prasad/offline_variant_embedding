@@ -1,0 +1,14 @@
+.git/objects/30/373b31699bdf3b03398258fd7d68b2103577c1 filter=lfs diff=lfs merge=lfs -text
+.git/objects/a1/ff396e7a32eddce3ed052665bae4fe0fde06dc filter=lfs diff=lfs merge=lfs -text
+.git/objects/ae/4899bd76ccb4484b6c39a85a42c93ee3d0c16d filter=lfs diff=lfs merge=lfs -text
+encoder_models/paraphrase_mpnet_v2/tf_model.h5 filter=lfs diff=lfs merge=lfs -text
+encoder_models/universal_sentence_encoder/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+fairseq/.git/objects/pack/pack-ff3f127b053e53aa5d6960dcaee88d9153a9df15.pack filter=lfs diff=lfs merge=lfs -text
+indic-en-preprint/ct2_fp16_model/model.bin filter=lfs diff=lfs merge=lfs -text
+indic_nlp_resources/.git/objects/pack/pack-a22a33d0c22746cfe5e2df42cfdfb106b3bedf05.pack filter=lfs diff=lfs merge=lfs -text
+indic_nlp_resources/morph/morfessor/hi.model filter=lfs diff=lfs merge=lfs -text
+indic_nlp_resources/morph/morfessor/kn.model filter=lfs diff=lfs merge=lfs -text
+indic_nlp_resources/morph/morfessor/mr.model filter=lfs diff=lfs merge=lfs -text
+indic_nlp_resources/morph/morfessor/ta.model filter=lfs diff=lfs merge=lfs -text
+indic_nlp_resources/morph/morfessor/te.model filter=lfs diff=lfs merge=lfs -text
+indic_nlp_resources/morph/morfessor/ur.model filter=lfs diff=lfs merge=lfs -text
